@@ -1,16 +1,22 @@
 # Site navigation links
 
+- title: Home
+  url: 
+
+- title: About
+  url: /about/
+
 - title: Blog
   url: /blog/
 
-- title: Games
-  url: /games/
+- title: Articles
+  url: /articles/
 
-- title: Minecraft
-  url: /minecraft/
+- title: Tags
+  url: /tags/
 
-- title: XDA Developers
-  url: /xda/
+- title: Categories
+  url: /categories
 
-- title: About me
-  url: /about/
+- title: Search
+  url: /search/

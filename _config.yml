@@ -1,11 +1,10 @@
 # Site wide configuration
 
-title: Desno365's blog
+title: another blog
 locale: en_US
-description: Just a little website where I publish the things I make.
-logo: site-logo.png
-search: false
-url: http://desno365.net
+description: blog blog
+search: true
+url: https://kerner1000.github.io
 
 # Jekyll configuration
 
@@ -28,7 +27,7 @@ kramdown:
   toc_levels: 1..2
   enable_coderay: false
 
-mathjax: false
+mathjax: true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
@@ -36,23 +35,24 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Dennis Motta
-  nickname: Desno365
-  avatar: site-logo.png
-  email: desno365@gmail.com
-  disqus-shortname: desno365githubio
-  twitter: desno365
+  name: Kerner1000
+  avatar: kerner1000-avatar.png
+  email: alexkerner1000@gmail.com
+  disqus-shortname: https-kerner1000-github-io
+  twitter: #username
   facebook: #username
-  github: Desno365
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: dennismotta
+  github: kerner1000
+  stackexchange: http://stackoverflow.com/users/3522818/kerner1000
+  linkedin: alexander-kerner-3ab37752
+  instagram: #username
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus:
-    youtube: UCJQL47nQnsijcaN_7pMsjCQ
-    verify: Kf4WNcQ8vbpqczQdZHuGOcX8O4LH6EsO0-MruCK8oPw
-  bing-verify: F2B0E247C6AB9BC3F524FA8EBD3DC6CE
+    plus: #username
+    analytics: UA-67514794-7
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Tag Index
+title: tags
 excerpt: "An archive of posts sorted by tag."
 search_omit: true
-sitemap: false
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
