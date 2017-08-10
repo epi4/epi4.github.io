@@ -6,14 +6,17 @@
 - title: About
   url: /about/
 
-- title: Programming
-  url: /programming/
-
 - title: Blog
   url: /blog/
 
+- title: Articles
+  url: /articles/
+
 - title: Tags
   url: /tags/
+
+- title: Categories
+  url: /categories
 
 - title: Search
   url: /search/
