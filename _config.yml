@@ -1,0 +1,58 @@
+# Site wide configuration
+
+title: Desno365's blog
+locale: en_US
+description: Just a little website where I publish the things I make.
+logo: site-logo.png
+search: false
+url: http://desno365.net
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Dennis Motta
+  nickname: Desno365
+  avatar: site-logo.png
+  email: desno365@gmail.com
+  disqus-shortname: desno365githubio
+  twitter: desno365
+  facebook: #username
+  github: Desno365
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: dennismotta
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus:
+    youtube: UCJQL47nQnsijcaN_7pMsjCQ
+    verify: Kf4WNcQ8vbpqczQdZHuGOcX8O4LH6EsO0-MruCK8oPw
+  bing-verify: F2B0E247C6AB9BC3F524FA8EBD3DC6CE

@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Blog
+  url: /blog/
+
+- title: Games
+  url: /games/
+
+- title: Minecraft
+  url: /minecraft/
+
+- title: XDA Developers
+  url: /xda/
+
+- title: About me
+  url: /about/
