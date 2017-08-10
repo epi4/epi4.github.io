@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: another blog
+title: symple blog
 locale: en_US
-description: blog blog
+description: symple blog
 search: true
-url: https://kerner1000.github.io
+url: https://epi4.github.io
 
 # Jekyll configuration
 
@@ -35,15 +35,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Kerner1000
-  avatar: kerner1000-avatar.png
-  email: alexkerner1000@gmail.com
-  disqus-shortname: https-kerner1000-github-io
+  name: epi4
+  avatar: epi4.gif
+  email: episoty@gmail.com
+  disqus-shortname: https-epi4-github-io
   twitter: #username
   facebook: #username
-  github: kerner1000
-  stackexchange: http://stackoverflow.com/users/3522818/kerner1000
-  linkedin: alexander-kerner-3ab37752
+  github: epi4
+  stackexchange: #username
+  linkedin: #username
   instagram: #username
   flickr: #username
   tumblr: #username
