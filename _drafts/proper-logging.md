@@ -3,9 +3,9 @@ layout: post
 title: "Proper Logging"
 excerpt: ""
 description: ""
-categories: [Java, blog]
+categories: [blog]
 tags: []
-author: kerner1000
+author: epi4
 comments: true
 share: true
 ---
