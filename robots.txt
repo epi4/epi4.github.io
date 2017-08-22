@@ -1,0 +1,6 @@
+User-agent: Googlebot
+User-agent: DAUMOA
+User-agent: NaverBot
+Allow: /
+
+Sitemap: http://epi4.github.io/sitemap.xml
