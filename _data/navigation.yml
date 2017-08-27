@@ -1,12 +1,15 @@
 # Site navigation links
 
+- title: Home
+  url: 
+
 - title: About
   url: /about/
 
 - title: Programming
   url: /programming/
   
-  title: Video
+- title: Video
   url: /video/
 
 - title: Blog
