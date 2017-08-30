@@ -12,7 +12,9 @@ share: true
 
 ##### 점프 올스타즈
 개발 도구 : C++, Win32
+
 캐릭터들이 서로 싸우는 대전 액션 게임
+
 개발 기간 : 2014.03.18 ~ 2014.04.08
 
 http://www.mediafire.com/file/2vesckvoouoixfx/JumpAllstars_ver_65.zip
@@ -23,7 +25,9 @@ http://www.mediafire.com/file/2vesckvoouoixfx/JumpAllstars_ver_65.zip
 
 ##### 스타크래프트
 개발 도구 : C++, Directx9, MFC
+
 전략시뮬레이션 게임
+
 개발 기간 : 2014.05.16 ~ 2014.06.10
 
 http://www.mediafire.com/file/1jg419j2zeli7zr/StarCraft_ver_80.zip
@@ -34,7 +38,9 @@ http://www.mediafire.com/file/1jg419j2zeli7zr/StarCraft_ver_80.zip
 
 ##### 리그오브레전드
 개발 도구 : C++, Directx9, MFC
+
 AOS 게임
+
 개발 기간 : 2014.08.08 ~ 2014.09.29
 
 http://www.mediafire.com/file/qoz27se1e406xm6/LoL_ver.79.zip
@@ -45,7 +51,9 @@ http://www.mediafire.com/file/qoz27se1e406xm6/LoL_ver.79.zip
 
 ##### 킬링플로어
 개발 도구 : C++, Winsock
+
 멀티 FPS 게임
+
 개발 기간 : 2014.10.25 ~ 2014.12.24
 
 http://www.mediafire.com/file/2q9933oxjwml9kd/MooServerEngine13.zip
@@ -56,16 +64,20 @@ http://www.mediafire.com/file/2q9933oxjwml9kd/MooServerEngine13.zip
 
 ##### 팔라독&히어로즈
 개발 도구 : C++, Winsock, mysql, asp.net
+
 모바일 타워 디펜스형 게임
+
 참여 기간 : 2015.03.23 ~ 2016.04.11
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f2aRNIY_UCw" frameborder="0" allowfullscreen></iframe>
 
-C++ 기반의 서버 프레임워크에서 컨텐츠 추가하는 업무를 담당하였다. 새로운 패킷이나 아이템 타입을 구현하여 이를 DB에 추가했다. 신규 아이템인 룬, 정수, 우편함 모두 받기 기능 등을 맡았다. 그 외에 운영툴을 통해 GM에게 서비스하였다.
+C++ 기반의 서버 프레임워크에서 컨텐츠 추가하는 업무를 담당하였다. 새로운 패킷이나 아이템 타입을 구현하여 이를 DB에 추가했다. 신규 아이템인 룬, 정수, 우편함 모두 받기 기능 등을 맡았다. 그 외에 asp.net 운영툴을 통해 GM에게 서비스하였다.
 
 ##### 자동차 시뮬레이터
 개발 도구 : Unigine Engine
+
 자동차 가상 훈련 시뮬레이터
+
 참여 기간 : 2016.07.25 ~ 2017.08.31
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NOjdWAiYVGk" frameborder="0" allowfullscreen></iframe>
@@ -76,7 +88,9 @@ Unigine 엔진 1.0에서 2.0으로 엔진 컨버팅 작업과 미니맵 뷰, 리
 
 ##### FaceAPI
 개발 도구 : C++, opencv
+
 캠으로 얼굴 인식하여 얼굴의 rotation 값을 받는 프로그램
+
 개발 기간 : 2017.06.02 ~ 2017.08.08
 
 https://github.com/epi4/faceapi
