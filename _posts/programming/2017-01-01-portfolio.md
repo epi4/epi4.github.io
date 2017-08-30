@@ -93,8 +93,6 @@ Unigine 엔진 1.0에서 2.0으로 엔진 컨버팅 작업과 미니맵 뷰, 리
 
 개발 기간 : 2017.06.02 ~ 2017.08.08
 
-https://github.com/epi4/faceapi
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ay68ptWH6oU" frameborder="0" allowfullscreen></iframe>
 
 캠에 찍힌 영상을 통해 얼굴 인식을 하고 얼굴의 x축, y축 값을 받는 프로그램을 기반으로 작업. 내가 담당한 부분은 오픈소스에서 제공해주는 API를 통해 사용자가 왼쪽/오른쪽을 바라보는지, 밑/아래를 바라보는지를 확인해서 이 값을 시뮬레이터에 전송해주는 부분을 맡았다.
